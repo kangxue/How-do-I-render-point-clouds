@@ -6,7 +6,7 @@ Here is how:
 
 - Convert the point cloud into a set of spheres, and save it in an obj file. You can use the matlab code under "pc2sphere".
 
-- Use [Keyshot](https://www.keyshot.com/) to render the obj file.  The software provides a library of nice materials. 
+- Use [Keyshot](https://www.keyshot.com/) to render the obj file.  The software provides a library of nice materials. The price of education version is $95/year.
 
 - You can also write a python script to render a batch of files. See the document [here](https://keyshot.com/scripting/doc/7.0/quickstart.html).
 
